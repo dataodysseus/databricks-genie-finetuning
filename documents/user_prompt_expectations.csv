@@ -1,0 +1,13 @@
+﻿Role,Use Case,Prompt,User Expectation 
+CFO,Portfolio Contribution,Calculate the revenue contribution percentage for each item. Show top 5 items based on their revenue contributions. ,"Want to see the percentage of total revenue that each item contributes to overall sales. For example: ""Item A: Revenue contribution x%, Item B: Revenue contribution y% etc."""
+Store Operations,Risk Mitigation,Which stores are categorized as 'At Risk' based on their forecast performance in December 2025? ,"Utilize ""classify_store_performance"" to categorize sotres and capture thier performance tier and action priority. "
+Store Operations,Trend Analysis,How does the forecast performance of Austin stores compare over time?,Want to see a comparison between actual revenue vs forecast revenue of Austin store over time.
+Supplier Strategist,Product Performance ,Show the top 10 most popular products in Austin store by revenue.,Want to see the most popular products at Austin store. Ordered by revenue in descending order. 
+Sales Manager,Customer Performance,Who are the most frequent customers at Austin store. List top 10 based on frequency of purchase (not total revenue),List most frequently visited customer at Austin store. 
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
