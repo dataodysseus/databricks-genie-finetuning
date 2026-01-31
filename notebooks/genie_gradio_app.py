@@ -21,8 +21,8 @@ import os
 
 # COMMAND ----------
 
-dbutils.widgets.text("genie_space_id","")
-dbutils.widgets.text("schema_name","")
+# dbutils.widgets.text("genie_space_id","")
+# dbutils.widgets.text("schema_name","")
 
 # COMMAND ----------
 
